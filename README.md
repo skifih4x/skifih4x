@@ -8,11 +8,3 @@ SWIFT MARAPHON. I STARTED FROM A PARTICIPANT AND GROWED TO THE ROLE OF A MENTOR,
 
 Skills: Swift, UIKit, Realm, CoreData, SOLID, OOP, MVC, MVVM, JSON, FIREBASE
 
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=skifih4x)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=skifih4x&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=skifih4x)  
